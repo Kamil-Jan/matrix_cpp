@@ -1,6 +1,7 @@
 #include <algorithm>
 #include <array>
 #include "biginteger.h"
+#include "rational.h"
 
 namespace util {
 template <size_t N, size_t D>
